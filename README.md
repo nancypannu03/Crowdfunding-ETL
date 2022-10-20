@@ -22,5 +22,12 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
 
 
 ### Deliverable 3 : Create an ERD and Table Schema, and Load Data
+
+[crowdfunding_db_schema sql file](/Queries/crowdfunding_db_schema.sql)
+
+[Crowdfunding_db Relationships](/Resources/crowdfunding_db_relationships.png  )
+
+
+
 ### Deliverable 4 : SQL Analysis
 ## Results 
