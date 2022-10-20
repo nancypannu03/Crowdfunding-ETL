@@ -29,22 +29,29 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
 
 [crowdfunding_db_schema sql file](/Queries/crowdfunding_db_schema.sql)
 
+
 ![Test Image](/Resources/crowdfunding_db_relationships.png  )
+
 
 ![Test Image](/Resources/backers-csv.png)
 
 ### Deliverable 4 : SQL Analysis
 
-#### Email_contacts_remaining_goal_amount Table and CSV File
+#### - Email_contacts_remaining_goal_amount Table and CSV File
 
 [Crowdfunding_SQL_Analysis sql file](/Queries/crowdfunding_SQL_Analysis.sql)
 
+
 [Email_contacts_remaining_goal_amount CSV file](/Data/email_contacts_remaining_goal_amount.csv)
+
 
 ![Test Image](/Resources/Remaining_Goal_Amount_table.png)
 
-#### Email_backers_remaining_goal_amount Table and CSV File
+#### - Email_backers_remaining_goal_amount Table and CSV File
+
 
 [Email_backers_remaining_goal_amount CSV file](/Data/email_backers_remaining_goal_amount.csv)
+
+
 
 ![Test Image](/Resources/email_backers_remaining_goal_amount.png)
