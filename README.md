@@ -38,5 +38,5 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
 
 [email_contacts_remaining_goal_amount CSV file](/Data/email_contacts_remaining_goal_amount.csv)
 
-![Test Image](/Resources/Remaining_Goal_Amount_table.png.png)
+![Test Image](/Resources/Remaining_Goal_Amount_table.png)
 
