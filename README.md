@@ -9,9 +9,13 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
      - Finally, will perform a data analysis on the crowdfunding_db database by using SQL queries.
     
 ### Deliverable 1 : Extract Data
+
 ![Test Image](/Resources/backers_df.png)
 
 ### Deliverable 2 : Transform and Clean Data
+
+[Extract-Transform Final Code](Extract-Transform_final_code.ipynb)
+
 ![Test Image](/Resources/backers_df_clean.png)
 
 [Extract-Transform Final Code](Extract-Transform_final_code.ipynb)
