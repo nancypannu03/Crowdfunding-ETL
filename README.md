@@ -8,7 +8,9 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
         - Specifically, we will use the dataset to create an ERD and a table schema for creating a new table in the crowdfunding_db database.
         - And, we will upload the CSV file that contains the backers’ information into this table. 
         - Finally, will perform a data analysis on the crowdfunding_db database by using SQL queries.
-    
+ 
+## Results 
+
 ### Deliverable 1 : Extract Data
 
 ![Test Image](/Resources/backers_df.png)
@@ -32,4 +34,4 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
 
 ### Deliverable 4 : SQL Analysis
 
-## Results 
+
