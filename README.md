@@ -18,7 +18,7 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
 
 ![Test Image](/Resources/backers_df_clean.png)
 
-[Extract-Transform Final Code](Extract-Transform_final_code.ipynb)
+
 
 
 ### Deliverable 3 : Create an ERD and Table Schema, and Load Data
@@ -27,7 +27,8 @@ In this Analysis, we will assist Britta to perform both an ETL process on this d
 
 [Crowdfunding_db Relationships](/Resources/crowdfunding_db_relationships.png  )
 
-
+![Test Image](/Resources/backers-csv.png)
 
 ### Deliverable 4 : SQL Analysis
+
 ## Results 
